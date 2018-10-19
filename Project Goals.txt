@@ -1,0 +1,21 @@
+Kedyn:
+-Rendering
+-Fireball Physics
+-Mario Animations
+-Scores/Data/Time
+
+Paul:
+-Level editings, underground level
+-Collision
+-Slide Physics
+-Art
+-Enemy Animations
+-High Scores
+-Hidden Blocks
+
+Ian
+-Jumping Physics
+-Gravity Physics
+-Music/Sounds
+-Object Animations
+-Enemy AI/Behaviors
